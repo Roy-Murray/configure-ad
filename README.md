@@ -66,5 +66,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
   
  ![image](https://github.com/user-attachments/assets/700e74a1-d524-4b34-b136-670b55940d16)
 
+ <h3>2. Attach Client-1 to the same region and Vnet</h3>
+ 
+ - ensure it is in the same virtual Network and Subnet like dc-1
+
 
 
