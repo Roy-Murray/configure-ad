@@ -87,7 +87,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
  ![image](https://github.com/user-attachments/assets/8bd38ced-a7a8-4702-86f8-8b3d53706d3d)
 
 
-<h3>Connclusion</h3>
+<h3>Conclusion</h3>
 
 Active Directory infrastructure is now prepared. We've created two VMs to run as a windows server and the other as a domain controller.
 
