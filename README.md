@@ -53,4 +53,17 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 5. <h3>Disable windows firewall:</h3>
 
-- 
+- Log in to DC-1, disable the Windows Firewall for testing connectivity.
+
+![image](https://github.com/user-attachments/assets/9a5b2f49-1590-475e-9a15-733959984588)
+
+<h2>Setup client-1 in Azure</h2>
+
+<h3>1. Prepare the AD infracstructure in azure</h3>
+
+- create the client vm
+  - name the vm client-1
+  
+ ![image](https://github.com/user-attachments/assets/700e74a1-d524-4b34-b136-670b55940d16)
+
+
