@@ -70,5 +70,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
  
  - ensure it is in the same virtual Network and Subnet like dc-1
 
+![image](https://github.com/user-attachments/assets/b772f365-e7a3-43f6-b1f8-86d4ca328cc0)
+
+ <h3>3. Set DNS Settings</h3>
+
+ - Update Client-1's DNS settings to point to dc-1's private IP.
+
+ <h3>4. Test Connectivity</h3>
+
+ - Restart Client-1 from Azure Portal
+ - Log into Client-1 and use the ping command too see test connectivity to dc-1
+
+  <h3>Verify DNS Settings</h3>
+ - Run ipconfig/all in powershell on Client-1 too see the DNS points to dc-1
+
+ 
 
 
