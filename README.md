@@ -81,9 +81,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
  - Restart Client-1 from Azure Portal
  - Log into Client-1 and use the ping command too see test connectivity to dc-1
 
-  <h3>Verify DNS Settings</h3>
+  h3>Verify DNS Settings</h3><
  - Run ipconfig/all in powershell on Client-1 too see the DNS points to dc-1
 
- 
+ ![image](https://github.com/user-attachments/assets/8bd38ced-a7a8-4702-86f8-8b3d53706d3d)
+
+
+<h3>Connclusion</h3>
+
+Active Directory infrastructure is now prepared. We've created two VMs to run as a windows server and the other as a domain controller.
 
 
