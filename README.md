@@ -49,7 +49,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 4. <h3>Set Static Private IP for DC-1:</h3>
    - After the VM is created, navigate to its Network Interface Card (NIC) settings and set the private IP to static.
      
-     ![image](https://github.com/user-attachments/assets/7ee0a079-28a2-4d60-9004-347e5cb35945)
+    ![image](https://github.com/user-attachments/assets/5953e8ec-0ad3-43b5-8da2-95b8094238a4)
+
 
 5. <h3>Disable windows firewall:</h3>
 
